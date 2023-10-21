@@ -2,7 +2,7 @@
 # Hello, I'm Mujahid Anwar - Passionate Software Engineer 👋<br>
 <br>Welcome to my GitHub profile! I'm passionate about creating innovative solutions and crafting efficient, user-friendly applications. As a Full Stack Developer, I enjoy working with both frontend and backend technologies to bring ideas to life.<br><br>📊 GitHub Stats:<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaifullahAkhtar-001&theme=dark&hide_border=true)<br/>
-<br><br>🔭 Currently working on: React, Next js, Django, python, Mysql, C++, TypeScript<br><br>👯 Looking to collaborate on: Front-end Projects, Full-stack(that are cover in my stack)<br><br>## Skills<br>- Frontend: HTML, CSS, JavaScript, React<br>- Backend: Django, python <br>- Database: MySQL ,SQLite<br>- Other: Git, RESTful APIs<br><br>## Fun Facts<br>- 🎮 I'm a book lover, enjoying selfhelp books.<br>- 📚 I enjoy reading tech blogs and staying up-to-date with industry trends.<br><br>Let's connect and explore the world of coding together! Feel free to reach out and say hello.<br><br>Saifullah Akhtar<br>Full Stack Developer<br>
+<br><br>🔭 Currently working on: React, Next js, Django, python, Mysql, C++, TypeScript<br><br>👯 Looking to collaborate on: Front-end Projects, Full-stack(that are cover in my stack)<br><br>## Skills<br>- Frontend: HTML, CSS, JavaScript, React<br>- Backend: Django, python <br>- Database: MySQL ,SQLite<br>- Other: Git, RESTful APIs<br><br>## Fun Facts<br>- 🎮 I'm a book lover, enjoying selfhelp books.<br>- 📚 I enjoy reading tech blogs and staying up-to-date with industry trends.<br><br>Let's connect and explore the world of coding together! Feel free to reach out and say hello.<br><br>Mujahid Anwar<br>Software Engineer<br>
 
 
 ## 🌐 Socials:
